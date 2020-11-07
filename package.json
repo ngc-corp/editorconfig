@@ -1,0 +1,16 @@
+{
+  "name": "@ngc-corp/editorconfig",
+  "version": "1.0.0",
+  "description": ".editorconfig used in NGC Corp. projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ngc-corp/editorconfig.git"
+  },
+  "author": "NCG Corp. <engineering@ngc-corp.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngc-corp/editorconfig/issues"
+  },
+  "homepage": "https://github.com/ngc-corp/editorconfig#readme"
+}
